@@ -1,0 +1,421 @@
+20:18:20.453 INFO  manager.ApplicationManager - All tests rus in FIREFOX Browser
+20:18:22.133 INFO  manager.ApplicationManager - The link --->https://telranedu.web.app/home
+20:18:22.206 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:18:22.210 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:27.286 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:27.287 INFO  tests.TestBase - Start test with name `loginSuccess`
+20:18:27.291 INFO  tests.TestBase - Test data ---> email: mara@gmail.com& password: Mmar123456$
+20:18:27.293 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:27.319 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:27.323 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:27.570 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:27.570 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:27.571 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:27.582 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:27.583 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:27.838 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:27.904 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:27.904 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:27.909 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:27.910 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:28.128 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:28.198 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:28.203 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:28.204 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:28.434 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:28.434 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:29.915 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:29.917 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:29.920 INFO  tests.TestBase - ==========================================
+20:18:29.921 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:18:29.921 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:29.930 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:29.931 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:29.945 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:29.946 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:30.173 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:30.173 INFO  tests.TestBase - Before method finish logout
+20:18:30.174 INFO  tests.TestBase - Start test with name `loginSuccess`
+20:18:30.174 INFO  tests.TestBase - Test data ---> email: mara@gmail.com& password: Mmar123456$
+20:18:30.174 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:30.181 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:30.182 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:30.403 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:30.403 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:30.403 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:30.420 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:30.421 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:30.643 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:30.718 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:30.718 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:30.724 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:30.725 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:30.945 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:31.012 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:31.019 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:31.020 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:31.251 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:31.251 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:31.347 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:31.348 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:31.349 INFO  tests.TestBase - ==========================================
+20:18:31.350 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:18:31.351 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:31.359 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:31.359 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:31.375 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:31.375 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:31.595 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:31.595 INFO  tests.TestBase - Before method finish logout
+20:18:31.596 INFO  tests.TestBase - Start test with name `loginSuccess`
+20:18:31.596 INFO  tests.TestBase - Test data ---> email: sonya@gmail.com& password: Ss12345$
+20:18:31.596 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:31.605 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:31.605 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:31.828 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:31.828 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:31.828 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:31.838 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:31.839 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:32.057 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:32.125 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:32.126 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:32.133 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:32.133 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:32.353 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:32.418 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:32.428 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:32.429 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:32.650 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:32.650 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:32.829 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:32.830 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:32.831 INFO  tests.TestBase - ==========================================
+20:18:32.833 INFO  tests.TestBase - Name of method ---> loginSuccessModel
+20:18:32.833 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:32.846 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:32.846 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:32.862 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:32.862 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:33.084 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:33.084 INFO  tests.TestBase - Before method finish logout
+20:18:33.088 INFO  tests.TestBase - Test data ---> User{email='mara@gmail.com', password='Mmar123456$'}
+20:18:33.088 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:33.096 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:33.097 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:33.319 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:33.319 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:33.319 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:33.332 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:33.332 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:33.555 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:33.622 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:33.628 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:33.628 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:33.848 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:33.915 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:33.924 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:33.924 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:34.156 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:34.156 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:34.267 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:34.268 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:34.269 INFO  tests.TestBase - ==========================================
+20:18:34.271 INFO  tests.TestBase - Name of method ---> loginSuccessModel
+20:18:34.272 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:34.283 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:34.283 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:34.299 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:34.299 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:34.533 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:34.533 INFO  tests.TestBase - Before method finish logout
+20:18:34.533 INFO  tests.TestBase - Test data ---> User{email='sonya@gmail.com', password='Ss12345$'}
+20:18:34.533 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:34.563 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:34.564 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:34.790 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:34.790 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:34.790 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:34.794 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:34.795 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:35.024 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:35.099 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:35.104 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:35.104 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:35.329 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:35.392 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:35.402 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:35.402 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:35.625 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:35.625 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:35.745 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:35.746 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:35.750 INFO  tests.TestBase - ==========================================
+20:18:35.753 INFO  tests.TestBase - Name of method ---> loginSuccessModelDP
+20:18:35.754 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:35.759 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:35.759 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:35.774 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:35.775 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:36.003 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:36.003 INFO  tests.TestBase - Before method finish logout
+20:18:36.003 INFO  tests.TestBase - Test data ---> User{email='mara@gmail.com', password='Mmar123456$'}
+20:18:36.004 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:36.007 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:36.007 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:36.226 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:36.226 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:36.226 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:36.240 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:36.240 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:36.464 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:36.530 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:36.536 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:36.536 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:36.766 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:36.840 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:36.848 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:36.848 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:37.072 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:37.072 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:37.203 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:37.204 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:37.204 INFO  tests.TestBase - ==========================================
+20:18:37.204 INFO  tests.TestBase - Name of method ---> loginSuccessModelDP
+20:18:37.205 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:37.220 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:37.220 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:37.235 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:37.235 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:37.456 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:37.456 INFO  tests.TestBase - Before method finish logout
+20:18:37.456 INFO  tests.TestBase - Test data ---> User{email='sonya@gmail.com', password='Ss12345$'}
+20:18:37.456 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:37.467 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:37.468 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:37.690 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:37.690 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:37.690 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:37.700 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:37.700 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:37.922 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:37.990 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:37.995 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:37.996 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:38.220 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:38.312 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:38.321 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:38.321 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:38.546 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:38.546 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:38.708 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:38.708 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:38.709 INFO  tests.TestBase - ==========================================
+20:18:38.709 INFO  tests.TestBase - Name of method ---> loginSuccessModelDP
+20:18:38.710 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:38.725 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:38.725 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:38.740 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:38.740 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:38.960 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:38.961 INFO  tests.TestBase - Before method finish logout
+20:18:38.961 INFO  tests.TestBase - Test data ---> User{email='mara@gmail.com', password='Mmar123456$'}
+20:18:38.961 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:38.970 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:38.970 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:39.193 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:39.193 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:39.193 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:39.202 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:39.203 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:39.433 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:39.508 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:39.528 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:39.528 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:39.753 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:39.816 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:39.823 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:39.824 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:40.046 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:40.046 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:40.194 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:40.195 INFO  tests.TestBase - Assert check is Element button 'Sign Out' present
+20:18:40.195 INFO  tests.TestBase - ==========================================
+20:18:40.196 INFO  tests.TestBase - Name of method ---> loginUnregisteredUser
+20:18:40.196 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:40.210 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:40.210 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:40.225 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:40.226 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:40.448 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:18:40.448 INFO  tests.TestBase - Before method finish logout
+20:18:40.448 INFO  tests.TestBase - Test data ---> email: 'luck@gmail.com' & password: 'Luck123456$' 
+20:18:40.448 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:40.456 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:40.457 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:40.675 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:40.675 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:40.676 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:40.689 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:40.689 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:40.911 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:40.980 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:40.980 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:40.985 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:40.985 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:41.210 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:41.273 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:41.281 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:41.282 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:41.504 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:42.048 INFO  tests.TestBase - Assert check is alert with error text 'Wrong email or password'
+20:18:42.048 INFO  tests.TestBase - ==========================================
+20:18:42.049 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+20:18:42.049 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:47.062 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:47.063 INFO  tests.TestBase - Test data ---> email: 'maragmail.com' & password: 'Mmar123456$' 
+20:18:47.063 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:47.079 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:47.080 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:47.304 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:47.304 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:47.304 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:47.315 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:47.316 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:47.540 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:47.610 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:47.610 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:47.617 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:47.618 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:47.838 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:47.910 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:47.916 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:47.916 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:48.146 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:49.187 INFO  tests.TestBase - Assert check is alert with error text 'Wrong email or password'
+20:18:49.187 INFO  tests.TestBase - ==========================================
+20:18:49.188 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+20:18:49.188 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:18:54.198 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:18:54.199 INFO  tests.TestBase - Test data ---> email: 'mara@gmail.com' & password: 'Mmar123' 
+20:18:54.199 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:18:54.216 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:18:54.216 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:54.447 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:18:54.447 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:18:54.447 INFO  manager.ListenerWD - Before find element: By.name: email
+20:18:54.463 INFO  manager.ListenerWD - element found success: By.name: email
+20:18:54.465 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:54.696 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:18:54.765 INFO  manager.HelperBase - type in input with locator By.name("email") 
+20:18:54.765 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:18:54.774 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:18:54.775 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:55.006 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:18:55.073 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Login']
+20:18:55.084 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Login']
+20:18:55.084 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:55.317 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Login']]
+20:18:55.855 INFO  tests.TestBase - Assert check is alert with error text 'Wrong email or password'
+20:18:55.856 INFO  tests.TestBase - ==========================================
+20:18:55.859 INFO  tests.TestBase - Name of method ---> registrationExistsUser
+20:18:55.859 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:00.887 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:00.888 INFO  tests.TestBase - Tests run with data: --->User{email='mara@gmail.com', password='Xx123456$'}
+20:19:00.888 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:19:00.904 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:19:00.904 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:01.133 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:01.133 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:19:01.133 INFO  manager.ListenerWD - Before find element: By.name: email
+20:19:01.150 INFO  manager.ListenerWD - element found success: By.name: email
+20:19:01.150 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:01.381 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:01.451 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:19:01.460 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:19:01.461 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:01.690 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:01.760 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Registration']
+20:19:01.769 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Registration']
+20:19:01.769 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:02.002 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:02.532 INFO  tests.TestBase - ==========================================
+20:19:02.533 INFO  tests.TestBase - Name of method ---> registrationSuccess
+20:19:02.534 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:07.553 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:07.556 INFO  tests.TestBase - Tests run with data: --->User{email='don628@gmail.com', password='Don123456$'}
+20:19:07.556 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:19:07.569 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:19:07.569 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:07.806 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:07.806 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:19:07.807 INFO  tests.TestBase - openRegistrationForm invoked
+20:19:07.807 INFO  manager.ListenerWD - Before find element: By.name: email
+20:19:07.820 INFO  manager.ListenerWD - element found success: By.name: email
+20:19:07.820 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:08.051 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:08.125 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:19:08.133 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:19:08.134 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:08.359 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:08.430 INFO  tests.TestBase - fillRegistrationForm invoked
+20:19:08.430 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Registration']
+20:19:08.436 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Registration']
+20:19:08.436 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:08.665 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:08.665 INFO  tests.TestBase - submitLogin invoked
+20:19:08.665 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:08.901 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:08.901 INFO  manager.ListenerWD - Before find element: By.cssSelector: .contact-page_message__2qafk>h1
+20:19:09.144 INFO  manager.ListenerWD - element found success: By.cssSelector: .contact-page_message__2qafk>h1
+20:19:09.162 INFO  manager.ListenerWD - get text from the element with text: No Contacts here!
+20:19:09.166 INFO  manager.ListenerWD - got the text successful
+20:19:09.166 INFO  tests.TestBase - ==========================================
+20:19:09.167 INFO  tests.TestBase - Name of method ---> registrationWrongEmail
+20:19:09.167 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:09.175 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:09.175 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:09.190 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:09.190 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:19:09.425 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Sign Out']]
+20:19:09.426 INFO  tests.TestBase - Tests run with data: --->User{email='dongmail.com', password='Don123456$'}
+20:19:09.426 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:19:09.441 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:19:09.441 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:09.674 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:09.674 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:19:09.674 INFO  manager.ListenerWD - Before find element: By.name: email
+20:19:09.690 INFO  manager.ListenerWD - element found success: By.name: email
+20:19:09.690 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:09.923 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:09.992 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:19:10.003 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:19:10.003 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:10.233 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:10.307 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Registration']
+20:19:10.315 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Registration']
+20:19:10.315 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:10.572 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:10.599 INFO  tests.TestBase - ==========================================
+20:19:10.600 INFO  tests.TestBase - Name of method ---> registrationWrongPassword
+20:19:10.600 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Sign Out']
+20:19:15.612 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Sign Out']
+20:19:15.613 INFO  tests.TestBase - Tests run with data: --->User{email='don678@gmail.com', password='Don123'}
+20:19:15.613 INFO  manager.ListenerWD - Before find element: By.cssSelector: a[href='/login']
+20:19:15.631 INFO  manager.ListenerWD - element found success: By.cssSelector: a[href='/login']
+20:19:15.631 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:15.859 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> css selector: a[href='/login']]
+20:19:15.859 INFO  manager.HelperBase - Open form by click button with locator By.cssSelector("a[href='/login']
+20:19:15.859 INFO  manager.ListenerWD - Before find element: By.name: email
+20:19:15.877 INFO  manager.ListenerWD - element found success: By.name: email
+20:19:15.877 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:16.108 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> name: email]
+20:19:16.188 INFO  manager.ListenerWD - Before find element: By.xpath: //input[last()]
+20:19:16.204 INFO  manager.ListenerWD - element found success: By.xpath: //input[last()]
+20:19:16.204 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:16.434 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //input[last()]]
+20:19:16.505 INFO  manager.ListenerWD - Before find element: By.xpath: //button[text()='Registration']
+20:19:16.516 INFO  manager.ListenerWD - element found success: By.xpath: //button[text()='Registration']
+20:19:16.516 INFO  manager.ListenerWD - start method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:16.743 INFO  manager.ListenerWD - done method click on element[[FirefoxDriver: firefox on WINDOWS (20e23c07-ef1e-48d0-a4e9-a605ba60e179)] -> xpath: //button[text()='Registration']]
+20:19:17.286 INFO  tests.TestBase - ==========================================
